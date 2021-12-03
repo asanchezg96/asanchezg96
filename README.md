@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @asanchezg96
-- 👀 I’m interested in security, developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-asanchezg96/asanchezg96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @asanchezg96, I consider myself a self-taught, proactive and sociable person, I like to reverse engineer any technology in the field of computing, computing, to continue learning and perfecting skills as a developer and pentester in the world of computing.
+- 👀 I’m interested in security, automation and software development.
+- 🌱 I’m currently learning frameworks as React, Laravel and Spring Boot.
+- 💞️ I’m looking to collaborate on proyects of development software.
+- 📫 How to reach me asanchez047@puce.edu.ec.
