@@ -2,5 +2,7 @@
 - 👀 I’m interested in security, automation and software development.
 - 🌱 I’m currently learning frameworks as React, Laravel and Spring Boot.
 - 💞️ I’m looking to collaborate on proyects of development software.
-- 📫 How to reach me asanchez047@puce.edu.ec.
+- 📫 How to reach me asanchez047@puce.edu.ec
+- 📫 How to reach me anthony.sanchez@pucese.edu.ec
+- GitHub personal: https://github.com/TonyLenta/
 - My profile www.linkedin.com/in/anthony-sanchez-guashpa 
